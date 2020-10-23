@@ -40,3 +40,5 @@ end
 gem "graphql", "~> 1.11"
 
 gem "graphiql-rails", "~> 1.7"
+
+gem "faker", "~> 2.14"
